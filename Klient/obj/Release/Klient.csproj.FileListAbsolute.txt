@@ -1,0 +1,9 @@
+C:\knu\spz\2\Klient\Klient\bin\Release\Klient.exe.config
+C:\knu\spz\2\Klient\Klient\bin\Release\Klient.exe
+C:\knu\spz\2\Klient\Klient\bin\Release\Klient.pdb
+C:\knu\spz\2\Klient\Klient\obj\Release\Klient.Form1.resources
+C:\knu\spz\2\Klient\Klient\obj\Release\Klient.Properties.Resources.resources
+C:\knu\spz\2\Klient\Klient\obj\Release\Klient.csproj.GenerateResource.cache
+C:\knu\spz\2\Klient\Klient\obj\Release\Klient.csproj.CoreCompileInputs.cache
+C:\knu\spz\2\Klient\Klient\obj\Release\Klient.exe
+C:\knu\spz\2\Klient\Klient\obj\Release\Klient.pdb

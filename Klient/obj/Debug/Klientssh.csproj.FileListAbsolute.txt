@@ -1,0 +1,5 @@
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klientssh.csproj.AssemblyReference.cache
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.exe.config
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klientssh.csproj.GenerateResource.cache
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.exe
+C:\knu\spz\2\Klient\Klient\obj\Debug\Klient.pdb
